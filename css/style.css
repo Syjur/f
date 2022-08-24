@@ -1,0 +1,67 @@
+/* universel selector */
+*{margin: 0;
+    padding: 0;
+    border: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+    }
+    header{
+      background-color: rosybrown;     
+      /* text-align: center; */
+      width: 100%;
+      float: left;
+   
+    }
+    .container{
+      background-color: aqua;
+      width: 95%;
+      margin: auto;
+    }
+    .navigation-part{
+width: 100%;
+float: left;
+    }
+    .super-part{
+width: 100%;
+float: left;
+ }
+    .logo-part{
+      width: 50%;
+      float: left;
+      background-color: aqua;
+    }
+    .logo-img{
+      width: 25%;
+    }
+    .menu-part{
+      width: 50%;
+      float: left;
+      background-color:  rgb(143, 168, 188);
+      
+      
+    }
+    #service{
+      background-color: rgb(179, 245, 244);
+      width: 100%;
+      float: left;
+    }
+    .service-writing-part{
+      width: 100%;
+      float: left;
+    }
+    .service-box-part{
+      width: 100%;
+      float: left;
+
+    }
+  
+    .service-box{
+      width: 25%;
+      float: left;
+    }
+    .image-img{
+      width: 25%;
+      font-size: 20px;
+    text-align: center;
+    }
+    
